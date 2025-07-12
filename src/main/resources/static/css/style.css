@@ -1,0 +1,29 @@
+.container {
+    padding: 20px;
+}
+h1 {
+    color: #333;
+}
+.controls {
+    margin-bottom: 20px;
+}
+.employee-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+button, select, input {
+    margin: 5px;
+    padding: 5px 10px;
+}
+#filterPanel {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+#pagination {
+    display: flex;
+    gap: 10px;
+}
