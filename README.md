@@ -52,7 +52,8 @@ This project is a front-end web application developed as part of the "Employee D
 - **Add/Edit Form**: Displaying the form with filled or empty fields.
 - **Filter/Sort/Search**: Showing the interface with applied filters or sorted lists.
 
-## Reflection
-- **Challenges Faced**:
-- Initial difficulty in setting up a local server due to Python configuration and understanding freemaker templates.
-- Ensuring correct file paths for CSS and JavaScript files caused some trial and error.
+- **Improvements**:
+- Add more robust form validation (e.g., email format checking) with visual feedback.
+- Implement a confirmation dialog for deletions to prevent accidental data loss.
+- Enhance the UI with animations or a more modern design if time permits.
+- Set up a full Freemarker server environment for true template processing in a production-like scenario.
